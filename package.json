@@ -1,0 +1,16 @@
+{
+  "name": "express",
+  "version": "25.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "script.js"
+  },
+  "author": "Баян Бонев 21404",
+  "license": "ISC",
+  "type": "commonjs",
+  "keywords": [],
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
